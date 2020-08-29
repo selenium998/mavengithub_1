@@ -34,7 +34,7 @@ public class LoginTest {
 
 		}
 		Reporter.log("verify the expected message");
-		System.out.println("test completed");
+		//System.out.println("test completed");
 		Reporter.log("test completed");
 	}
 	@AfterSuite
