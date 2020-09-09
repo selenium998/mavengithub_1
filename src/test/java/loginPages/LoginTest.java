@@ -9,7 +9,7 @@ import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Test;
 
 public class LoginTest {
-	
+	//checking the ci process for jenkins
 	public static WebDriver driver;
 	@BeforeSuite
 	public void setUp() {
